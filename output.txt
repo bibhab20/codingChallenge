@@ -1,0 +1,15 @@
+*******Result********
+Total number of words: 443
+Top 10 words with their corresponding counts
+the : 18
+a : 16
+is : 15
+auctions : 14
+for : 13
+of : 13
+in : 12
+object : 11
+to : 10
+price : 9
+Last sentence with most used word
+ Closed formats are opague: only the seller is able to tell how much each customer is willing to pay for an object
